@@ -1,7 +1,7 @@
 ## Simple Quote for Excel  
-User guide: [PDF](https://github.com/ITAutomator/M365-Teams-Policy-Update/blob/main/Simple%20Quote%20for%20Excel%20Readme.pdf)    
-Download: [ZIP](https://github.com/ITAutomator/M365-Teams-Policy-Update/archive/refs/heads/main.zip)    
-Website: [WWW](https://www.itautomator.com/m365-teams-policy-report-and-update/)   
+User guide: [PDF](https://github.com/ITAutomator/Simple-Quote-for-Excel/blob/main/Simple%20Quote%20for%20Excel%20Readme.pdf)    
+Download: [ZIP](https://github.com/ITAutomator/Simple-Quote-for-Excel/archive/refs/heads/main.zip)    
+Website: [WWW](https://www.itautomator.com/Simple-Quote-for-Excel/)   
 (or click the green *Code* button (above) and click *Download Zip*)     
 
 **Overview**   
