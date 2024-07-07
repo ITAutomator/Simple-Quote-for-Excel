@@ -1,5 +1,5 @@
 ## Simple Quote for Excel  
-User guide: [PDF](https://github.com/ITAutomator/M365-Teams-Policy-Update/blob/main/M365%20Teams%20Policy%20Update%20Readme.pdf)    
+User guide: [PDF](https://github.com/ITAutomator/M365-Teams-Policy-Update/blob/main/Simple%20Quote%20for%20Excel%20Readme.pdf)    
 Download: [ZIP](https://github.com/ITAutomator/M365-Teams-Policy-Update/archive/refs/heads/main.zip)    
 Website: [WWW](https://www.itautomator.com/m365-teams-policy-report-and-update/)   
 (or click the green *Code* button (above) and click *Download Zip*)     
